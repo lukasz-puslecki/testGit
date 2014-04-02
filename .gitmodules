@@ -1,0 +1,3 @@
+[submodule "PHP_SDK"]
+	path = PHP_SDK
+	url = https://github.com/MangoPay/mangopay2-php-sdk.git
